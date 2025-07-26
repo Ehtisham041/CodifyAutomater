@@ -1,1 +1,1 @@
-export const DB_NAME ="CODIFYAUTOMATER" 
+export const DB_NAME = "CODIFYAUTOMATER"; 
